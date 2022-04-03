@@ -1,0 +1,19 @@
+{
+  "name": "discordhack",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">ODiscord</h1> <h4 align=\"center\">Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS</h4> <p align=\"center\"> \t<a href=\"https://github.com/I2rys/ODiscord/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/I2rys/ODiscord?style=flat-square\"></img></a> \t<a href=\"https://github.com/I2rys/ODiscord/issues\"><img src=\"https://img.shields.io/github/issues/I2rys/ODiscord.svg\"></img></a> \t<a href=\"https://nodejs.org/\"><img src=\"https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js\"></img></a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I2rys/ODiscord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I2rys/ODiscord/issues"
+  },
+  "homepage": "https://github.com/I2rys/ODiscord#readme"
+}
